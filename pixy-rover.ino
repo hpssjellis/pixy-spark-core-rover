@@ -105,12 +105,12 @@ void loop(){
     
     //  Deal with all the turning x = 0 - 319
   
-    if (pixy.blocks[0].x < 150){   //object on the left so car should turn right
+    if (pixy.blocks[0].x < 150){   //object on the left so car should turn let
         digitalWrite(myLeftRight, 1);
         analogWrite(myTurnMotor,  250); 
     }  else {
         
-       if (pixy.blocks[0].x > 190){   //object on the right so car should turn left 
+       if (pixy.blocks[0].x > 190){   //object on the right so car should turn right
          digitalWrite(myLeftRight, 0);
          analogWrite(myTurnMotor,  250); 
         
