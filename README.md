@@ -12,5 +12,8 @@ click + again and copy TPixy.h to the IDE. Save
 Flash the code to your core.
 
 
+Really important to train the Pixy with the color you want the rover to follow and then check on Pixymon that the reading is a good one. I had all kinds of issues since I thought the color was preperly trained but it wasn't.
+
+
 
 Sorry. I only just learnt how to make a proper Spark.io library file and I have not done that yet.
