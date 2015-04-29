@@ -10,3 +10,7 @@ click + in the top right corner and copy Pixy.h to the IDE. Save
 click + again and copy TPixy.h to the IDE. Save
 
 Flash the code to your core.
+
+
+
+Sorry. I only just learnt how to make a proper Spark.io library file and I have not done that yet.
