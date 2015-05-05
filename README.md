@@ -31,16 +31,16 @@ Just a reminder image of the Spark Cores PINS
 
 The Pixy to Spark Core Serial Connections
 
-pixy-serial-spark-core.png
+![](pixy-serial-spark-core.png)
 
 
 The Pololu Small Double motor driver (For low amps motors under 1 AMP at https://www.pololu.com/product/2135 about $8.00
 
-pololu-small-double-2135.png
+![](pololu-small-double-2135.png)
 
 The Pololu big single motor driver for up to 30 AMP and like 41 Volts at https://www.pololu.com/product/1451  about $25.00
 
-pololu-big-single-1451.png
+![](pololu-big-single-1451.png)
 
 
 
