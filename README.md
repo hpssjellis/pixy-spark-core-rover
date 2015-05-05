@@ -26,7 +26,8 @@ I have included the images to help setup things. Have a look at all the images t
 
 Just a reminder image of the Spark Cores PINS
 
-![](PixyConnector.png)
+
+![](spark-core-pins.png)
 
 The Pixy to Spark Core Serial Connections
 
