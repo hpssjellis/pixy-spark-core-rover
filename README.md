@@ -21,3 +21,11 @@ Sorry. I only just learnt how to make a proper Spark.io library file and I have 
 
 May 5, 2015
 Having some trouble with the Pixy having false positives, makes my rover go racing down the street searching for the wrong color. Had a better look using PixyMon and found out the inperfections in the backpack I was using was allowing several false readings. Will have to get an object with a really consistent color.
+
+I have included the images to help setup things. Have a look at all the images they should make some sense
+
+
+
+
+
+
