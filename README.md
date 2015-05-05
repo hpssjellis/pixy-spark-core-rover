@@ -22,6 +22,11 @@ Sorry. I only just learnt how to make a proper Spark.io library file and I have 
 May 5, 2015
 Having some trouble with the Pixy having false positives, makes my rover go racing down the street searching for the wrong color. Had a better look using PixyMon and found out the inperfections in the backpack I was using was allowing several false readings. Will have to get an object with a really consistent color.
 
+
+Entered the file pixy-d7.ino, for people who do not have the motor drivers but want to test Pixy with the Spark Core. Includes a cool bit of coding to allow the code to work when connected to Wifi and also when not connected to Wifi.
+
+
+
 I have included the images to help setup things. Have a look at all the images they should make some sense
 
 Just a reminder image of the Spark Cores PINS
